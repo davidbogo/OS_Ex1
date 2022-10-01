@@ -1,5 +1,5 @@
 #!/bin/bash
-#David Bogoslavsky 316393974
+#David Bogoslavsky
 
 DIRECTORY=""
 RECURSIVE=""
