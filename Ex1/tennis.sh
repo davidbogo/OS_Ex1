@@ -1,5 +1,5 @@
 #!/bin/bash
-#David Bogoslavsky 316393974
+#David Bogoslavsky
 game_on=true
 first_round=true
 ball_location=0
