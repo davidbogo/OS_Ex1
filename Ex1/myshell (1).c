@@ -6,7 +6,7 @@
 #include <sys/types.h>
 #include <unistd.h>
 
-//David Bogoslavsky 316393974
+//David Bogoslavsky
 
 #define MAX_COMMAND_LENGTH	103
 #define MAX_NUMBER_OF_COMMANDS  100
